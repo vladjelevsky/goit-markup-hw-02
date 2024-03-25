@@ -93,10 +93,6 @@ a {
 
 .content-title {}
 
-.visually-hidden {
-    visibility: hidden;
-}
-
 .content-spdt-menu-list {}
 
 .content-menu-item {}
@@ -114,6 +110,10 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.visually-hidden {
+    visibility: hidden;
 }
 
 /*-----------Our Team-----------*/
