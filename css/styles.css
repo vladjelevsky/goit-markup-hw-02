@@ -64,7 +64,7 @@ a {
     background-color: #2e2f42;
 }
 
-.headline-baner {
+.headline-title {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
@@ -72,7 +72,7 @@ a {
     text-align: center;
 }
 
-.headline-button {
+.headline-btn {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -82,8 +82,8 @@ a {
     background-color: #4d5ae5;
 }
 
-.headline-button:hover,
-.headline-button:focus {
+.headline-btn:hover,
+.headline-btn:focus {
     background-color: #404bbf;
     cursor: pointer;
 }
